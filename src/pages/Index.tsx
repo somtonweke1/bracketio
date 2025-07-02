@@ -1,9 +1,8 @@
-
 import { Button } from "@/components/ui/button";
 import { ArrowRight, CheckCircle, Users, TrendingUp, Target, MessageCircle, Clock } from "lucide-react";
 
 const Index = () => {
-  const airtableUrl = "https://airtable.com/appv5yWDkMxV2xKGU/pagUoOCii6OPMWPZd/form";
+  const airtableUrl = "https://getwaitlist.com/waitlist/29790?ref_id=UC4V3XMGD";
 
   const handleCTAClick = () => {
     window.open(airtableUrl, '_blank');
